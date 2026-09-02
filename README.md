@@ -107,7 +107,7 @@ Measurement confidence may be affected by image resolution, vessel orientation, 
 
 ---
 
-## 03 — Classification
+## 04 — Classification
 
 Classification combines vessel geometry with observable structural evidence.
 
@@ -144,7 +144,7 @@ For example:
 
 ---
 
-## 04 — Status Assessment
+## 05 — Status Assessment
 
 The vessel's apparent operational state is assessed from the available imagery.
 
@@ -161,7 +161,7 @@ Where additional information is available, imagery observations may be correlate
 
 ---
 
-## 05 — Confidence
+## 06 — Confidence
 
 Confidence reflects the strength and quality of the evidence supporting the
 assessment.
@@ -190,7 +190,7 @@ assessment.
 
 ---
 
-## 05 — Intelligence Assessment
+## 07 — Intelligence Assessment
 
 Each analysed object is recorded as a structured assessment:
 
