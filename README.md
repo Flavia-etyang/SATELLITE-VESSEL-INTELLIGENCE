@@ -166,12 +166,13 @@ Where additional information is available, imagery observations may be correlate
 Confidence reflects the strength and quality of the evidence supporting the
 assessment.
 
-| **Level** | **Intelligence Assessment** |
-|---|---|---|
+| Level | Intelligence Assessment |
+|---|---|
 | **HIGH** | Multiple independent visual indicators converge, image quality is sufficient, and limited ambiguity remains in the assessment. |
 | **MEDIUM** | The classification is plausible and supported by some evidence, but one or more relevant characteristics remain obscured, ambiguous or unresolved. |
 | **LOW** | Available evidence is limited, conflicting or insufficient to support a reliable classification. |
 
+### Confidence Factors
 
 >**Confidence** is determined through an assessment of factors including:
 
