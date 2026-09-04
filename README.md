@@ -229,3 +229,85 @@ The strength of the evidence supporting that assessment.
 
 >**NOTE: A hypothesis is never presented as an observed fact.**
 
+---
+
+# CASE STUDIES
+
+The following examples demonstrate the application of the satellite vessel intelligence methodology across different vessel classes and operating profiles.
+
+---
+
+## 01 — CRUDE OIL TANKER
+
+**Classification focus:** Hull form · Cargo deck · Piping · Superstructure · Bridge positioning · Dimensions
+
+![Crude Oil Tanker — Satellite Vessel Intelligence](assets/case-studies/Tanker.png)
+
+### Intelligence Assessment
+
+The observed hull proportions, continuous cargo deck, tanker-specific deck infrastructure and aft-positioned accommodation are consistent with a **crude oil tanker**.
+
+The classification is supported by the convergence of multiple observable structural indicators rather than a single visual characteristic.
+
+**Assessment:** Crude Oil Tanker  
+**Status:** Underway  
+**Confidence:** High
+
+---
+
+## 02 — CONTAINER SHIP
+
+**Classification focus:** Container geometry · Cargo arrangement · Hatch configuration · Superstructure · Bridge positioning · Dimensions
+
+![Container Ship — Satellite Vessel Intelligence](assets/case-studies/Container-vessel.png)
+
+### Intelligence Assessment
+
+The repeated rectangular container arrangement, regular cargo-bay geometry, aft-positioned accommodation and absence of tanker-specific infrastructure support classification as a **container vessel**.
+
+The container configuration provides the strongest visual discriminator from other commercial cargo classes.
+
+**Assessment:** Container Vessel  
+**Status:** Underway  
+**Confidence:** High
+
+---
+
+## 03 — YACHT / PLEASURE VESSEL
+
+**Classification focus:** Hull proportions · Recreational deck layout · Superstructure · Accommodation · Absence of commercial cargo features
+
+![Yacht / Pleasure Vessel — Satellite Vessel Intelligence](assets/case-studies/Pleasure.png)
+
+
+**Observation**
+1. The streamlined hull, multi-level accommodation, open recreational decks and absence of commercial cargo infrastructure are consistent with a **pleasure yacht**.
+2. 
+
+
+**classification Assessment**
+
+The assessment demonstrates the application of vessel classification to a substantially smaller and structurally different vessel category.
+
+**Assessment:** Pleasure Craft / Yacht  
+**Status:** Stationary / At Anchor  
+**Confidence:** High
+
+---
+
+## CROSS-CASE ANALYSIS
+
+These cases demonstrate classification across three materially different vessel profiles:
+
+| Case | Vessel | Primary Classification Indicators |
+|---|---|---|
+| 01 | Crude Oil Tanker | Cargo deck, piping, hull proportions, aft superstructure |
+| 02 | Container Ship | Container stacks, cell geometry, hatch arrangement |
+| 03 | Yacht / Pleasure | Recreational deck layout, accommodation, hull form |
+
+The analytical principle remains consistent:
+
+**Observe → Identify → Measure → Classify → Assess**
+
+Classification is based on the convergence of observable structural characteristics, with uncertainty retained where imagery does not provide sufficient evidence.
+
