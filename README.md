@@ -103,7 +103,7 @@ Physical Distance = Pixel Distance × Ground Sampling Distance
 
 Measurement confidence may be affected by image resolution, vessel orientation, georeferencing accuracy, shadow, wake and partial occlusion.
 
-> **Dimensions support classification but do not independently determine vessel type..*
+> Dimensions support classification but do not independently determine vessel type.
 
 ---
 
