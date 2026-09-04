@@ -255,9 +255,10 @@ The classification is supported by the convergence of multiple observable struct
 
 ---
 
-## 02 — CONTAINER VESSEL
+## 02 — CONTAINER SHIP
 
 **Classification focus:** Container geometry · Cargo arrangement · Hatch configuration · Superstructure · Bridge positioning · Dimensions
+
 
 ![Container Ship — Satellite Vessel Intelligence](assets/case-studies/Container-ship.png)
 
