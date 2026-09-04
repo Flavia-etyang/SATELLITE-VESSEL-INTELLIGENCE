@@ -231,27 +231,45 @@ The strength of the evidence supporting that assessment.
 
 ---
 
-# CASE STUDIES
+## CASE STUDIES
 
-The following examples demonstrate the application of the satellite vessel intelligence methodology across different vessel classes and operating profiles.
+The following case studies demonstrate the application of the satellite vessel intelligence methodology across different vessel classes and structural profiles.
+
+Each assessment separates observable characteristics from analytical inference and classification.
 
 ---
 
 ## 01 — CRUDE OIL TANKER
 
-**Classification focus:** Hull form · Cargo deck · Piping · Superstructure · Bridge positioning · Dimensions
+**Classification focus:** Hull form · Cargo deck · Deck piping · Superstructure · Bridge positioning · Dimensions
 
 ![Crude Oil Tanker — Satellite Vessel Intelligence](assets/case-studies/Tanker.png)
 
 ### Intelligence Assessment
 
-The observed hull proportions, continuous cargo deck, tanker-specific deck infrastructure and aft-positioned accommodation are consistent with a **crude oil tanker**.
+The observed vessel presents a long, broad hull with an extensive continuous cargo deck and limited deck obstruction across the central portion of the vessel.
 
-The classification is supported by the convergence of multiple observable structural indicators rather than a single visual characteristic.
+Key observable indicators include:
+
+- Raised forecastle and visible bow equipment.
+- Long, continuous cargo deck.
+- Distributed deck piping and cargo-handling infrastructure.
+- Aft-positioned accommodation and superstructure.
+- Bridge located within the aft superstructure.
+- Funnel integrated toward the stern.
+- Absence of container stacks or prominent cargo cranes.
+
+The combination of hull proportions, cargo-deck configuration, visible piping and aft superstructure is consistent with an **oil tanker**.
+
+The available structural evidence further supports a **crude oil tanker** hypothesis, although the specific cargo carried at the time of imaging cannot be established from visual imagery alone.
 
 **Assessment:** Crude Oil Tanker  
 **Status:** Underway  
 **Confidence:** High
+
+### Key Finding
+
+> **The vessel can be distinguished from other major commercial classes primarily through its continuous cargo deck, tanker-specific deck infrastructure and aft-positioned superstructure.**
 
 ---
 
@@ -263,15 +281,32 @@ The classification is supported by the convergence of multiple observable struct
 ![Container Ship — Satellite Vessel Intelligence](assets/case-studies/Container%20ship.png)
 
 
-**Observation**
+### Intelligence Assessment
 
-The repeated rectangular container arrangement, regular cargo-bay geometry, aft-positioned accommodation and absence of tanker-specific infrastructure support classification as a **container vessel**.
+The vessel displays a highly regular cargo configuration across the main deck, characterized by repeated rectangular container units arranged in longitudinal rows and transverse bays.
 
-The container configuration provides the strongest visual discriminator from other commercial cargo classes.
+Key observable indicators include:
+
+- Dense stacks of standardized rectangular containers.
+- Repeated container-cell geometry.
+- Regular separation between cargo bays.
+- Hatch-cover structure visible beneath or between container stacks.
+- Aft-positioned accommodation and superstructure.
+- Bridge positioned within the aft superstructure.
+- Absence of tanker-style cargo piping across the main deck.
+- Absence of a deck arrangement characteristic of bulk or general cargo vessels.
+
+The repeated geometric arrangement of containers provides the strongest classification indicator.
+
+The combination of container-stack configuration, cargo-bay geometry, hull proportions and aft accommodation supports classification as a **container vessel** rather than a generic cargo ship.
 
 **Assessment:** Container Vessel  
 **Status:** Underway  
 **Confidence:** High
+
+### Key Finding
+
+> **Container geometry is the primary visual discriminator, with the regular arrangement of cargo units providing stronger classification evidence than hull shape alone.**
 
 ---
 
@@ -282,34 +317,52 @@ The container configuration provides the strongest visual discriminator from oth
 ![Yacht / Pleasure Vessel — Satellite Vessel Intelligence](assets/case-studies/Pleasure.png)
 
 
-**Observation**
-1. The streamlined hull, multi-level accommodation, open recreational decks and absence of commercial cargo infrastructure are consistent with a **pleasure yacht**.
-2. 
+### Intelligence Assessment
 
+The vessel presents a comparatively small, streamlined hull with multiple accommodation levels and open deck areas consistent with recreational use.
 
-**classification Assessment**
+Key observable indicators include:
 
-The assessment demonstrates the application of vessel classification to a substantially smaller and structurally different vessel category.
+- Narrow, tapered bow.
+- Streamlined hull proportions.
+- Open forward deck area.
+- Multi-level superstructure.
+- Enclosed accommodation spaces.
+- Upper-deck navigation and communications equipment.
+- Walkaround side decks.
+- Open aft leisure deck.
+- Absence of cargo holds, container stacks or commercial cargo-handling equipment.
+
+The relationship between hull proportions, accommodation volume, recreational deck space and the absence of commercial cargo infrastructure supports classification as a **pleasure vessel**.
+
+The available structural evidence is consistent with a **yacht** subclass.
 
 **Assessment:** Pleasure Craft / Yacht  
 **Status:** Stationary / At Anchor  
 **Confidence:** High
 
+### Key Finding
+
+> **The vessel is distinguished primarily through its recreational architecture and accommodation profile rather than cargo-related characteristics.**
+
 ---
 
-## CROSS-CASE ANALYSIS
+# CROSS-CASE ANALYSIS
 
-These cases demonstrate classification across three materially different vessel profiles:
+The three cases demonstrate how vessel classification can be achieved across materially different vessel profiles using observable structural evidence.
 
-| Case | Vessel | Primary Classification Indicators |
+| Case | Vessel | Primary Visual Discriminators |
 |---|---|---|
 | 01 | Crude Oil Tanker | Cargo deck, piping, hull proportions, aft superstructure |
-| 02 | Container Ship | Container stacks, cell geometry, hatch arrangement |
-| 03 | Yacht / Pleasure | Recreational deck layout, accommodation, hull form |
+| 02 | Container Ship | Container stacks, cargo-bay geometry, hatch arrangement |
+| 03 | Yacht / Pleasure Vessel | Recreational deck layout, accommodation, hull form |
 
-The analytical principle remains consistent:
+The analytical sequence remains consistent:
 
 **Observe → Identify → Measure → Classify → Assess**
 
-Classification is based on the convergence of observable structural characteristics, with uncertainty retained where imagery does not provide sufficient evidence.
+The indicators used to reach the classification, however, change according to vessel type.
 
+> **The objective is not to recognize a vessel by appearance alone, but to identify the structural evidence that makes one classification more defensible than competing alternatives.**
+>
+---
