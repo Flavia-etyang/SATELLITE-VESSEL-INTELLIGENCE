@@ -261,7 +261,8 @@ The classification is supported by the convergence of multiple observable struct
 
 ![Container vessel — Satellite Vessel Intelligence](assets/case-studies/Container-vessel.png)
 
-### Intelligence Assessment
+
+**Observation**
 
 The repeated rectangular container arrangement, regular cargo-bay geometry, aft-positioned accommodation and absence of tanker-specific infrastructure support classification as a **container vessel**.
 
