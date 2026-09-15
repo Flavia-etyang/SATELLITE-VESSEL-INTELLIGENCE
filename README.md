@@ -1,4 +1,3 @@
----
 # Intelligence Question
 
 What vessel type is represented by the unidentified contact, and which observable characteristics support the classification?
