@@ -1,21 +1,19 @@
 <div align="center">
 
-# Intelligence Question
-
-What vessel type is represented by the unidentified contact, and which observable characteristics support the classification?
+# SATELLITE VESSEL INTELLIGENCE
 
 ## CASE 01 — UNKNOWN CONTACT → CRUDE OIL TANKER
 
-**Investigation type:** Satellite vessel classification  
-**Objective:** Determine vessel class from overhead imagery  
+</div>
+
+### Intelligence Question
+
+What vessel type is represented by the unidentified contact from the overhead EO imagery, and which observable characteristics support the classification? 
 
 ![Crude Oil Tanker — Satellite Vessel Intelligence](assets/case-studies/Tanker.png)
 
-</div>
 
----
-
-### Observation
+### Observed characteristics
 
 - Long, broad hull
 - Continuous central cargo deck
@@ -27,11 +25,11 @@ What vessel type is represented by the unidentified contact, and which observabl
 
 ### Competing Hypotheses
 
-| Case | Vessel | Primary Visual Discriminators |
+| Hypothesis | Supporting Evidence | Contradicting Evidence |
 |---|---|---|
-| 01 | Crude Oil Tanker | Cargo deck, piping, hull proportions, aft superstructure |
-| 02 | Container Ship | Container stacks, cargo-bay geometry, hatch arrangement |
-| 03 | Yacht / Pleasure Vessel | Recreational deck layout, accommodation, hull form |
+| Crude oil tanker | Broad hull, continuous cargo deck, piping | Cargo itself cannot be visually confirmed |
+| Product tanker | Similar hull/deck configuration | Dimensions/overall geometry less consistent |
+| Bulk carrier | Commercial hull proportions | Lack of cargo cranes / hatch arrangement |
 
 **Assessment:**  
 
@@ -43,10 +41,12 @@ The contact is assessed as an oil tanker with HIGH confidence. The combination o
 
 ## CASE 02 — UNKNOWN CONTACT - IDENTITY RESOLUTION
 
-**Investigation type:** Satellite vessel classification  
-**Objective:** Determine vessel class from overhead imagery  
+### Intelligence Question
 
-![Crude Oil Tanker — Satellite Vessel Intelligence](assets/case-studies/Tanker.png)
+What vessel type is represented by the unidentified contact from the overhead EO imagery, and which observable characteristics support the classification? 
+
+![Container Ship — Satellite Vessel Intelligence](assets/case-studies/Container%20ship.png)
+
 
 Unknown satellite contact
 
@@ -304,104 +304,3 @@ The strength of the evidence supporting that assessment.
 
 ---
 
-## CASE STUDIES
-
-The following case studies demonstrate the application of the satellite vessel intelligence methodology across different vessel classes and structural profiles.
-
-Each assessment separates observable characteristics from analytical inference and classification.
-
-
-
-## 02 — CONTAINER SHIP
-
-**Classification focus:** Container geometry · Cargo arrangement · Hatch configuration · Superstructure · Bridge positioning · Dimensions
-
-
-![Container Ship — Satellite Vessel Intelligence](assets/case-studies/Container%20ship.png)
-
-
-### Intelligence Assessment
-
-The vessel displays a highly regular cargo configuration across the main deck, characterized by repeated rectangular container units arranged in longitudinal rows and transverse bays.
-
-Key observable indicators include:
-
-- Dense stacks of standardized rectangular containers.
-- Repeated container-cell geometry.
-- Regular separation between cargo bays.
-- Hatch-cover structure visible beneath or between container stacks.
-- Aft-positioned accommodation and superstructure.
-- Bridge positioned within the aft superstructure.
-- Absence of tanker-style cargo piping across the main deck.
-- Absence of a deck arrangement characteristic of bulk or general cargo vessels.
-
-The repeated geometric arrangement of containers provides the strongest classification indicator.
-
-The combination of container-stack configuration, cargo-bay geometry, hull proportions and aft accommodation supports classification as a **container vessel** rather than a generic cargo ship.
-
-**Assessment:** Container Vessel  
-**Status:** Underway  
-**Confidence:** High
-
-### Key Finding
-
-> **Container geometry is the primary visual discriminator, with the regular arrangement of cargo units providing stronger classification evidence than hull shape alone.**
-
----
-
-## 03 — YACHT / PLEASURE VESSEL
-
-**Classification focus:** Hull proportions · Recreational deck layout · Superstructure · Accommodation · Absence of commercial cargo features
-
-![Yacht / Pleasure Vessel — Satellite Vessel Intelligence](assets/case-studies/Pleasure.png)
-
-
-### Intelligence Assessment
-
-The vessel presents a comparatively small, streamlined hull with multiple accommodation levels and open deck areas consistent with recreational use.
-
-Key observable indicators include:
-
-- Narrow, tapered bow.
-- Streamlined hull proportions.
-- Open forward deck area.
-- Multi-level superstructure.
-- Enclosed accommodation spaces.
-- Upper-deck navigation and communications equipment.
-- Walkaround side decks.
-- Open aft leisure deck.
-- Absence of cargo holds, container stacks or commercial cargo-handling equipment.
-
-The relationship between hull proportions, accommodation volume, recreational deck space and the absence of commercial cargo infrastructure supports classification as a **pleasure vessel**.
-
-The available structural evidence is consistent with a **yacht** subclass.
-
-**Assessment:** Pleasure Craft / Yacht  
-**Status:** Stationary / At Anchor  
-**Confidence:** High
-
-### Key Finding
-
-> **The vessel is distinguished primarily through its recreational architecture and accommodation profile rather than cargo-related characteristics.**
-
----
-
-# CROSS-CASE ANALYSIS
-
-The three cases demonstrate how vessel classification can be achieved across materially different vessel profiles using observable structural evidence.
-
-| Case | Vessel | Primary Visual Discriminators |
-|---|---|---|
-| 01 | Crude Oil Tanker | Cargo deck, piping, hull proportions, aft superstructure |
-| 02 | Container Ship | Container stacks, cargo-bay geometry, hatch arrangement |
-| 03 | Yacht / Pleasure Vessel | Recreational deck layout, accommodation, hull form |
-
-The analytical sequence remains consistent:
-
-**Observe → Identify → Measure → Classify → Assess**
-
-The indicators used to reach the classification, however, change according to vessel type.
-
-> **The objective is not to recognize a vessel by appearance alone, but to identify the structural evidence that makes one classification more defensible than competing alternatives.**
->
----
