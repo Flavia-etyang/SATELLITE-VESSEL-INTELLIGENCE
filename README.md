@@ -239,33 +239,32 @@ Each assessment separates observable characteristics from analytical inference a
 
 ---
 
-## 01 — CRUDE OIL TANKER
+## CASE 01 — UNKNOWN CONTACT → CRUDE OIL TANKER
 
-**Classification focus:** Hull form · Cargo deck · Deck piping · Superstructure · Bridge positioning · Dimensions
+**Intelligence Question** What vessel type is represented by the unidentified contact, and which observable characteristics support the classification?
 
 ![Crude Oil Tanker — Satellite Vessel Intelligence](assets/case-studies/Tanker.png)
 
-### Intelligence Assessment
+**Investigation type:** Satellite vessel classification  
+**Objective:** Determine vessel class from overhead imagery  
+**Initial assessment:** Unidentified commercial vessel  
+**Final assessment:** Crude oil tanker  
+**Confidence:** HIGH
 
-The observed vessel presents a long, broad hull with an extensive continuous cargo deck and limited deck obstruction across the central portion of the vessel.
+### Observation
 
-Key observable indicators include:
+- Long, broad hull
+- Continuous central cargo deck
+- Aft accommodation
+- Visible deck piping
+- No container stacks
+- No prominent deck cranes
+- Tanker-like deck geometry
 
-- Raised forecastle and visible bow equipment.
-- Long, continuous cargo deck.
-- Distributed deck piping and cargo-handling infrastructure.
-- Aft-positioned accommodation and superstructure.
-- Bridge located within the aft superstructure.
-- Funnel integrated toward the stern.
-- Absence of container stacks or prominent cargo cranes.
+### Competing Hypotheses
 
-The combination of hull proportions, cargo-deck configuration, visible piping and aft superstructure is consistent with an **oil tanker**.
-
-The available structural evidence further supports a **crude oil tanker** hypothesis, although the specific cargo carried at the time of imaging cannot be established from visual imagery alone.
-
-**Assessment:** Crude Oil Tanker  
-**Status:** Underway  
-**Confidence:** High
+**Assessment:**  
+The contact is assessed as an oil tanker with HIGH confidence. The combination of hull proportions, continuous cargo deck, tanker-specific piping and aft accommodation is inconsistent with container and bulk-carrier configurations. The available imagery supports a crude-oil-tanker hypothesis, although cargo carried at the time of imaging cannot be established from imagery alone.
 
 ### Key Finding
 
