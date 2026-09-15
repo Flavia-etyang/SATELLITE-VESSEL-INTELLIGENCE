@@ -1,3 +1,61 @@
+---
+
+**Intelligence Question**
+
+What vessel type is represented by the unidentified contact, and which observable characteristics support the classification?
+
+## CASE 01 — UNKNOWN CONTACT → CRUDE OIL TANKER
+
+**Investigation type:** Satellite vessel classification  
+**Objective:** Determine vessel class from overhead imagery  
+
+![Crude Oil Tanker — Satellite Vessel Intelligence](assets/case-studies/Tanker.png)
+
+### Observation
+
+- Long, broad hull
+- Continuous central cargo deck
+- Aft accommodation
+- Visible deck piping
+- No container stacks
+- No prominent deck cranes
+- Tanker-like deck geometry
+
+### Competing Hypotheses
+
+**Assessment:**  
+
+The contact is assessed as an oil tanker with HIGH confidence. The combination of hull proportions, continuous cargo deck, tanker-specific piping and aft accommodation is inconsistent with container and bulk-carrier configurations. The available imagery supports a crude-oil-tanker hypothesis, although cargo carried at the time of imaging cannot be established from imagery alone.
+
+**Final assessment:** Crude oil tanker  
+
+---
+
+## CASE 02 — UNKNOWN CONTACT - IDENTITY RESOLUTION
+
+**Investigation type:** Satellite vessel classification  
+**Objective:** Determine vessel class from overhead imagery  
+
+![Crude Oil Tanker — Satellite Vessel Intelligence](assets/case-studies/Tanker.png)
+
+Unknown satellite contact
+
+estimated LOA: ~190 m
+beam: ~28 m
+container configuration
+aft accommodation
+specific crane arrangement
+observed near a port
+
+Candidate A: 188 × 28 m
+Candidate B: 193 × 32 m
+Candidate C: 193 × 28 m
+
+### Competing Hypotheses
+
+
+---
+
 # SATELLITE VESSEL INTELLIGENCE
 
 **Detect · Observe · Measure · Classify · Assess**
@@ -237,40 +295,7 @@ The following case studies demonstrate the application of the satellite vessel i
 
 Each assessment separates observable characteristics from analytical inference and classification.
 
----
 
-## CASE 01 — UNKNOWN CONTACT → CRUDE OIL TANKER
-
-**Intelligence Question** What vessel type is represented by the unidentified contact, and which observable characteristics support the classification?
-
-![Crude Oil Tanker — Satellite Vessel Intelligence](assets/case-studies/Tanker.png)
-
-**Investigation type:** Satellite vessel classification  
-**Objective:** Determine vessel class from overhead imagery  
-**Initial assessment:** Unidentified commercial vessel  
-**Final assessment:** Crude oil tanker  
-**Confidence:** HIGH
-
-### Observation
-
-- Long, broad hull
-- Continuous central cargo deck
-- Aft accommodation
-- Visible deck piping
-- No container stacks
-- No prominent deck cranes
-- Tanker-like deck geometry
-
-### Competing Hypotheses
-
-**Assessment:**  
-The contact is assessed as an oil tanker with HIGH confidence. The combination of hull proportions, continuous cargo deck, tanker-specific piping and aft accommodation is inconsistent with container and bulk-carrier configurations. The available imagery supports a crude-oil-tanker hypothesis, although cargo carried at the time of imaging cannot be established from imagery alone.
-
-### Key Finding
-
-> **The vessel can be distinguished from other major commercial classes primarily through its continuous cargo deck, tanker-specific deck infrastructure and aft-positioned superstructure.**
-
----
 
 ## 02 — CONTAINER SHIP
 
