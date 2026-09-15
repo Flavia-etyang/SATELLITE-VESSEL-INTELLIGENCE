@@ -11,6 +11,10 @@ What vessel type is represented by the unidentified contact, and which observabl
 
 ![Crude Oil Tanker — Satellite Vessel Intelligence](assets/case-studies/Tanker.png)
 
+</div>
+
+---
+
 ### Observation
 
 - Long, broad hull
@@ -22,6 +26,12 @@ What vessel type is represented by the unidentified contact, and which observabl
 - Tanker-like deck geometry
 
 ### Competing Hypotheses
+
+| Case | Vessel | Primary Visual Discriminators |
+|---|---|---|
+| 01 | Crude Oil Tanker | Cargo deck, piping, hull proportions, aft superstructure |
+| 02 | Container Ship | Container stacks, cargo-bay geometry, hatch arrangement |
+| 03 | Yacht / Pleasure Vessel | Recreational deck layout, accommodation, hull form |
 
 **Assessment:**  
 
@@ -53,6 +63,11 @@ Candidate C: 193 × 28 m
 
 ### Competing Hypotheses
 
+| Case | Vessel | Primary Visual Discriminators |
+|---|---|---|
+| 01 | Crude Oil Tanker | Cargo deck, piping, hull proportions, aft superstructure |
+| 02 | Container Ship | Container stacks, cargo-bay geometry, hatch arrangement |
+| 03 | Yacht / Pleasure Vessel | Recreational deck layout, accommodation, hull form |
 
 ---
 
