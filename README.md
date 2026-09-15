@@ -31,11 +31,11 @@ What vessel type is represented by the unidentified contact from the overhead EO
 | Product tanker | Similar hull/deck configuration | Dimensions/overall geometry less consistent |
 | Bulk carrier | Commercial hull proportions | Lack of cargo cranes / hatch arrangement |
 
-**Assessment:**  
+### Assessment 
 
-The contact is assessed as an oil tanker with HIGH confidence. The combination of hull proportions, continuous cargo deck, tanker-specific piping and aft accommodation is inconsistent with container and bulk-carrier configurations. The available imagery supports a crude-oil-tanker hypothesis, although cargo carried at the time of imaging cannot be established from imagery alone.
+**The contact is assessed as an oil tanker with HIGH confidence. The combination of hull proportions, continuous cargo deck, tanker-specific piping and aft accommodation is inconsistent with container and bulk-carrier configurations. The available imagery supports a crude-oil-tanker hypothesis, although cargo carried at the time of imaging cannot be established from imagery alone.** 
 
-**Final assessment:** Crude oil tanker  
+### Final assessment: **Crude oil tanker**
 
 ---
 
@@ -57,9 +57,12 @@ aft accommodation
 specific crane arrangement
 observed near a port
 
-Candidate A: 188 × 28 m
-Candidate B: 193 × 32 m
-Candidate C: 193 × 28 m
+| Measurement | Analytical Use |
+|---|---|
+| **Candidate A:** | 188 × 28 m |
+| **Candidate B:** | 193 × 32 m |
+| **Candidate C:** | 193 × 28 m |
+
 
 ### Competing Hypotheses
 
@@ -68,6 +71,12 @@ Candidate C: 193 × 28 m
 | 01 | Crude Oil Tanker | Cargo deck, piping, hull proportions, aft superstructure |
 | 02 | Container Ship | Container stacks, cargo-bay geometry, hatch arrangement |
 | 03 | Yacht / Pleasure Vessel | Recreational deck layout, accommodation, hull form |
+
+### Assessment 
+
+**The contact is assessed as an oil tanker with HIGH confidence. The combination of hull proportions, continuous cargo deck, tanker-specific piping and aft accommodation is inconsistent with container and bulk-carrier configurations. The available imagery supports a crude-oil-tanker hypothesis, although cargo carried at the time of imaging cannot be established from imagery alone.** 
+
+### Final assessment: **Crude oil tanker**
 
 ---
 
