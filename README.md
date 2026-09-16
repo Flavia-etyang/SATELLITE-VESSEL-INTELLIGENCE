@@ -20,7 +20,7 @@ What vessel type is represented by the unidentified contact from the overhead EO
 - Aft accommodation
 - Visible deck piping
 - No container stacks
-- No prominent deck cranes
+- Central manifold deck cranes
 - Tanker-like deck geometry
 
 ### Competing Hypotheses
@@ -29,7 +29,7 @@ What vessel type is represented by the unidentified contact from the overhead EO
 |---|---|---|
 | Crude oil tanker | Broad hull, continuous cargo deck, piping | Cargo itself cannot be visually confirmed |
 | Product tanker | Similar hull/deck configuration | Dimensions/overall geometry less consistent |
-| Bulk carrier | Commercial hull proportions | Lack of cargo cranes / hatch arrangement |
+| Bulk carrier | Commercial hull proportions | Lack of hatch arrangement |
 
 ### Assessment 
 
