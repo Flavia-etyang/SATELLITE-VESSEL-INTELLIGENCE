@@ -4,7 +4,6 @@
 
 ## CASE 01 — UNKNOWN CONTACT → CRUDE OIL TANKER
 
-</div>
 
 ### Intelligence Question
 
@@ -12,6 +11,7 @@ What vessel type is represented by the unidentified contact from the overhead EO
 
 ![Crude Oil Tanker — Satellite Vessel Intelligence](assets/case-studies/Crude%20Oil%20Tanker.jpg)
 
+</div>
 
 ### Observed characteristics
 
