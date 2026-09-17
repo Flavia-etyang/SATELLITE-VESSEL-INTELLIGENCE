@@ -81,7 +81,7 @@ The assessment is supported by the convergence of **EO imagery, AIS data and ind
 
 <div align="center">
 
-## CASE 02 — UNKNOWN NAVAL CONTACT → SURFACE COMBATANT
+## CASE 02 — UNKNOWN NAVAL CONTACT → SURFACE COMBATANT CLASSIFICATION
 
 ### Intelligence Question
 
