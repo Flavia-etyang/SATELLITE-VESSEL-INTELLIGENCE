@@ -31,11 +31,51 @@ What vessel type is represented by the unidentified contact from the overhead EO
 | Product tanker | Similar hull/deck configuration | Dimensions/overall geometry less consistent |
 | Bulk carrier | Commercial hull proportions | Lack of hatch arrangement |
 
+---
+
 ### Assessment 
 
 **The contact is assessed as an oil tanker with HIGH confidence. The combination of hull proportions, continuous cargo deck, tanker-specific piping and aft accommodation is inconsistent with container and bulk-carrier configurations. The available imagery supports a crude-oil-tanker hypothesis, although cargo carried at the time of imaging cannot be established from imagery alone.** 
 
-### Final assessment: **Crude oil tanker**
+---
+
+### AIS Correlation & Identity Resolution
+
+Once the contact is classified as a tanker, a temporally and spatially correlated AIS transmission is used to test the classification and identify the vessel.
+
+| AIS / Vessel Data | Correlated Information |
+|---|---|
+| Vessel Name | **[AMANTEA]** |
+| IMO / MMSI | **[9892810] / [241720000]** |
+| AIS Type | **Tanker** |
+| Length / Beam | **[329.98 m] / [60 m]** |
+| Course | **[237 °]** |
+| Timestamp | **[09/15/2026 / 7:35 UTC]** |
+
+The AIS position and timestamp are consistent with the satellite acquisition, while the reported dimensions, vessel type and orientation are broadly consistent with the observed contact.
+
+### Vessel Particulars Cross-Check
+
+Independent vessel records identify **[AMANTEA] (IMO [9892810])** as a **crude oil tanker**, with documented dimensions of **[330 m × 60 m]**.
+
+These particulars are compared against the vessel's estimated dimensions and physical configuration in the EO imagery.
+
+### Identity Assessment
+
+**Classification Confidence: HIGH**  
+**Identity Confidence: [HIGH]**
+
+The EO characteristics support an oil-tanker classification, while the correlated AIS transmission and independent vessel particulars provide additional evidence for resolving the contact to **[AMANTEA]**.
+
+> **Analyst Note:** AIS correlation strengthens identification but is not treated as conclusive where timing, position, dimensions or physical characteristics present material inconsistencies.
+
+### Final Assessment
+
+**The contact is assessed as [AMANTEA], IMO [9892810] — a crude oil tanker.**
+
+The assessment is supported by the convergence of **EO imagery, AIS data and independent vessel particulars**.
+
+### Final assessment: **Crude oil tanker, HIGH confidence**
 
 ---
 
