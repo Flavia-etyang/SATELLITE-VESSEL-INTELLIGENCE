@@ -79,44 +79,140 @@ The assessment is supported by the convergence of **EO imagery, AIS data and ind
 
 ---
 
-## CASE 02 — UNKNOWN CONTACT - IDENTITY RESOLUTION
+<div align="center">
+
+## CASE 02 — UNKNOWN NAVAL CONTACT → SURFACE COMBATANT
 
 ### Intelligence Question
 
-What vessel type is represented by the unidentified contact from the overhead EO imagery, and which observable characteristics support the classification? 
+Can an unidentified naval contact be classified and attributed when AIS information is unavailable and the EO image is affected by atmospheric degradation?
 
-![Container Ship — Satellite Vessel Intelligence](assets/case-studies/Container%20ship.png)
+![Unknown Naval Contact — Satellite Vessel Intelligence](assets/case-studies/Naval-vessel.png)
 
+</div>
 
-Unknown satellite contact
+---
 
-estimated LOA: ~190 m
-beam: ~28 m
-container configuration
-aft accommodation
-specific crane arrangement
-observed near a port
+### 01 · Detection
 
-| Measurement | Analytical Use |
-|---|---|
-| **Candidate A:** | 188 × 28 m |
-| **Candidate B:** | 193 × 32 m |
-| **Candidate C:** | 193 × 28 m |
+An unidentified maritime contact is detected alongside a generic naval facility in commercial EO imagery.
 
+The contact is sufficiently resolved to examine its overall hull geometry and major structural features, but atmospheric haze limits some finer details.
 
-### Competing Hypotheses
+### 02 · Object Determination
 
-| Case | Vessel | Primary Visual Discriminators |
+The contact is assessed as a **vessel**, rather than a fixed maritime structure or platform.
+
+Its elongated hull, defined bow and stern, deck arrangement and position alongside the pier support the vessel determination.
+
+### 03 · Observed Characteristics
+
+- Long, narrow hull
+- Grey naval-style coloration
+- Forward gun position
+- Large central superstructure
+- Radar / sensor structures
+- Aft flight deck
+- No commercial cargo configuration
+- Dimensions estimated from the EO image
+
+### 04 · Competing Hypotheses
+
+| Hypothesis | Supporting Evidence | Contradicting Evidence |
 |---|---|---|
-| 01 | Crude Oil Tanker | Cargo deck, piping, hull proportions, aft superstructure |
-| 02 | Container Ship | Container stacks, cargo-bay geometry, hatch arrangement |
-| 03 | Yacht / Pleasure Vessel | Recreational deck layout, accommodation, hull form |
+| Destroyer / surface combatant | Hull geometry, forward gun, large superstructure, aft flight deck | Fine structural details affected by atmospheric conditions |
+| Frigate | Similar naval configuration | Apparent size and overall proportions less consistent |
+| Patrol / support vessel | Naval context | Vessel dimensions and combatant-style configuration less consistent |
 
-### Assessment 
+### 05 · Classification
 
-**The contact is assessed as an oil tanker with HIGH confidence. The combination of hull proportions, continuous cargo deck, tanker-specific piping and aft accommodation is inconsistent with container and bulk-carrier configurations. The available imagery supports a crude-oil-tanker hypothesis, although cargo carried at the time of imaging cannot be established from imagery alone.** 
+The physical configuration is most consistent with a **large naval surface combatant**.
 
-### Final assessment: **Crude oil tanker**
+The assessment is based on the combination of hull proportions, forward gun position, central superstructure, sensor architecture and aft flight deck.
+
+**Classification Confidence: MEDIUM–HIGH**
+
+---
+
+### 06 · Temporal & Geospatial Correlation
+
+Unlike commercial vessels, the contact does not provide a usable public AIS identity for direct vessel correlation.
+
+The investigation therefore shifts from AIS-based identity resolution to **temporal and geospatial correlation**.
+
+| Correlation Factor | Evidence |
+|---|---|
+| Image acquisition | **[DATE / TIME UTC]** |
+| General location | **Fictionalized coastal naval facility** |
+| Berth / pier position | **[Berth / facility reference]** |
+| Vessel dimensions | **[Estimated length × beam]** |
+| Vessel orientation | **[Observed orientation]** |
+| Weather / image quality | **Atmospheric haze / partial cloud interference** |
+
+The contact is compared against publicly available vessel references and imagery from an appropriate time period.
+
+---
+
+### 07 · Identity Assessment
+
+Where AIS is unavailable, identity cannot be established from a single transmission.
+
+Instead, the candidate assessment considers the convergence of:
+
+- EO-derived dimensions
+- Vessel architecture
+- Relative position within the facility
+- Vessel orientation
+- Acquisition timeframe
+- Publicly available vessel imagery / references
+- Consistency with known characteristics of the candidate class
+
+No single characteristic is treated as conclusive.
+
+---
+
+### Confidence
+
+**Classification Confidence: MEDIUM–HIGH**
+
+**Identity Confidence: MEDIUM**
+
+The imagery supports classification as a large naval surface combatant, while the absence of a directly correlated AIS identity and the degraded optical conditions limit the strength of individual-vessel attribution.
+
+### Analyst Note
+
+> Absence of AIS does not establish concealment or unusual behaviour. Some vessel categories, including warships, may not be required to carry AIS under international carriage requirements. :contentReference[oaicite:1]{index=1}
+
+The assessment therefore relies on non-AIS evidence and should remain appropriately qualified.
+
+---
+
+### 08 · Image Quality & Limitations
+
+Atmospheric haze and partial cloud interference reduce the visibility of fine vessel details.
+
+This creates uncertainty around:
+
+- Small superstructure features
+- Sensor configuration
+- Precise beam estimation
+- Fine deck equipment
+
+However, the overall hull geometry and major structural arrangement remain sufficiently observable for vessel classification.
+
+> **Image quality affects the confidence of individual observations — not necessarily the entire classification.**
+
+---
+
+### Final Assessment
+
+**The contact is assessed as a large naval surface combatant, with MEDIUM–HIGH classification confidence.**
+
+The available EO imagery supports the classification through the vessel's overall dimensions, hull geometry, superstructure arrangement, forward gun position and aft flight deck.
+
+Because no directly correlated AIS identity is available, individual-vessel attribution relies on temporal, geospatial and imagery-based correlation. Atmospheric degradation further limits the confidence of fine-grained identification.
+
+**The evidence supports the classification more strongly than the individual-vessel identity.**
 
 ---
 
