@@ -93,19 +93,17 @@ Can an unidentified naval contact be classified and attributed when AIS informat
 
 ---
 
-### 01 · Detection
-
 An unidentified maritime contact is detected alongside a generic naval facility in commercial EO imagery.
 
 The contact is sufficiently resolved to examine its overall hull geometry and major structural features, but atmospheric haze limits some finer details.
 
-### 02 · Object Determination
+### Object Determination
 
 The contact is assessed as a **vessel**, rather than a fixed maritime structure or platform.
 
 Its elongated hull, defined bow and stern, deck arrangement and position alongside the pier support the vessel determination.
 
-### 03 · Observed Characteristics
+### Observed Characteristics
 
 - Long, narrow hull
 - Grey naval-style coloration
@@ -116,7 +114,7 @@ Its elongated hull, defined bow and stern, deck arrangement and position alongsi
 - No commercial cargo configuration
 - Dimensions estimated from the EO image
 
-### 04 · Competing Hypotheses
+### Competing Hypotheses
 
 | Hypothesis | Supporting Evidence | Contradicting Evidence |
 |---|---|---|
@@ -124,7 +122,7 @@ Its elongated hull, defined bow and stern, deck arrangement and position alongsi
 | Frigate | Similar naval configuration | Apparent size and overall proportions less consistent |
 | Patrol / support vessel | Naval context | Vessel dimensions and combatant-style configuration less consistent |
 
-### 05 · Classification
+### Classification
 
 The physical configuration is most consistent with a **large naval surface combatant**.
 
@@ -134,7 +132,7 @@ The assessment is based on the combination of hull proportions, forward gun posi
 
 ---
 
-### 06 · Temporal & Geospatial Correlation
+### Temporal & Geospatial Correlation
 
 Unlike commercial vessels, the contact does not provide a usable public AIS identity for direct vessel correlation.
 
@@ -153,7 +151,7 @@ The contact is compared against publicly available vessel references and imagery
 
 ---
 
-### 07 · Identity Assessment
+### Identity Assessment
 
 Where AIS is unavailable, identity cannot be established from a single transmission.
 
@@ -187,7 +185,7 @@ The assessment therefore relies on non-AIS evidence and should remain appropriat
 
 ---
 
-### 08 · Image Quality & Limitations
+### Image Quality & Limitations
 
 Atmospheric haze and partial cloud interference reduce the visibility of fine vessel details.
 
