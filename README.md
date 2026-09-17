@@ -9,7 +9,7 @@
 
 What vessel type is represented by the unidentified contact from the overhead EO imagery, and which observable characteristics support the classification? 
 
-![Crude Oil Tanker — Satellite Vessel Intelligence](assets/case-studies/Crude%20Oil%20Tanker.jpg)
+![Crude Oil Tanker — Satellite Vessel Intelligence](assets/case-studies/Tanker.png)
 
 </div>
 
