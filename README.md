@@ -7,50 +7,120 @@
 
 ### Intelligence Question
 
-What vessel type is represented by the unidentified contact from the overhead EO imagery, and which observable characteristics support the classification? 
+What vessel is represented by the unidentified EO contact, and does the available evidence support both its classification and individual identity?
+
+</div>
+
+---
+
+### 01 · Detection
+
+A single maritime contact is detected in commercial EO imagery.
+
+The object is sufficiently resolved to examine its hull geometry, deck arrangement and major structural features. The image provides enough visual information for classification, while some fine details remain subject to image resolution and viewing conditions.
+
+<div align="center">
 
 ![Crude Oil Tanker — Satellite Vessel Intelligence](assets/case-studies/Tanker.png)
 
 </div>
 
+---
+
+### 02 · Object Determination
+
+The contact is assessed as a **vessel** rather than a fixed structure, platform or other maritime object.
+
+The determination is supported by:
+
+- Defined bow and stern
+- Continuous hull geometry
+- Symmetrical vessel form
+- Deck arrangement consistent with a ship
+- Position and orientation within navigable water
+
+**Object determination confidence: HIGH**
+
+---
+
 ### Observed characteristics
 
-- Long, broad hull
-- Continuous central cargo deck
-- Aft accommodation
-- Visible deck piping
-- No container stacks
-- Central manifold deck cranes
-- Tanker-like deck geometry
+| Feature | Observation |
+|---|---|
+| Hull | Long, broad commercial hull |
+| Cargo deck | Continuous central deck area |
+| Accommodation | Positioned toward the aft |
+| Deck infrastructure | Visible longitudinal piping |
+| Cargo arrangement | No visible container stacks |
+| Cargo handling | Central manifold / deck crane features |
+| Hatch arrangement | No prominent bulk-carrier hatch pattern |
+
+---
 
 ### Competing Hypotheses
 
 | Hypothesis | Supporting Evidence | Contradicting Evidence |
 |---|---|---|
-| Crude oil tanker | Broad hull, continuous cargo deck, piping | Cargo itself cannot be visually confirmed |
-| Product tanker | Similar hull/deck configuration | Dimensions/overall geometry less consistent |
-| Bulk carrier | Commercial hull proportions | Lack of hatch arrangement |
+| Crude oil tanker | Broad hull, continuous cargo deck, piping, tanker geometry | Cargo carried cannot be confirmed visually |
+| Product tanker | Similar tanker configuration | Overall dimensions / proportions less consistent |
+| Bulk carrier | Commercial vessel proportions | Lack of prominent cargo hatches |
+| Container vessel | Commercial hull | No container-stack arrangement |
 
 ---
 
-### Assessment 
+### Classification 
 
-**The contact is assessed as an oil tanker with HIGH confidence. The combination of hull proportions, continuous cargo deck, tanker-specific piping and aft accommodation is inconsistent with container and bulk-carrier configurations. The available imagery supports a crude-oil-tanker hypothesis, although cargo carried at the time of imaging cannot be established from imagery alone.** 
+The contact is classified as an **oil tanker** with HIGH confidence.
+
+The classification is supported by the convergence of:
+
+- Hull proportions
+- Continuous cargo deck
+- Visible deck piping
+- Aft accommodation
+- Manifold configuration
+- Absence of container-stack or bulk-carrier hatch characteristics
+
+<div align="center">
+        
+**Classification Confidence: HIGH**
+
+</div>
+
+**Important distinction:** classification identifies the vessel type; it does not establish the individual vessel identity.
 
 ---
 
 ### AIS Correlation & Identity Resolution
 
-Once the contact is classified as a tanker, a temporally and spatially correlated AIS transmission is used to test the classification and identify the vessel.
+Once the contact was classified as an oil tanker, AIS data within the relevant acquisition window was used to identify candidate vessels occupying the corresponding geographic area.
 
-| AIS / Vessel Data | Correlated Information |
-|---|---|
-| Vessel Name | **[AMANTEA]** |
-| IMO / MMSI | **[9892810] / [241720000]** |
-| AIS Type | **Tanker** |
-| Length / Beam | **[329.98 m] / [60 m]** |
-| Course | **[237 °]** |
-| Timestamp | **[09/15/2026 / 7:35 UTC]** |
+Candidate filtering considered:
+
+1. Spatial proximity to the EO contact
+2. Temporal proximity to image acquisition
+3. Vessel type
+4. Reported length / beam
+5. Vessel orientation
+6. Availability of independent vessel particulars
+
+---
+
+### 07 · EO → AIS Correlation
+
+The strongest AIS candidate was tested against the EO contact using spatial, temporal and physical characteristics.
+
+| Candidate | AIS Type | LOA | Spatial Match | Spatial Match |
+|---|---|---|---|---|
+| AMANTEA | Tanker-like configuration | Tanker | Consistent | Consistent |
+| Length | ~330 m estimated | 329.98 m | Consistent | Consistent |
+| Beam | ~60 m estimated | 60 m | Consistent | Consistent |
+| Orientation | [Observed heading/orientation] | Course 237° | Consistent / [explain] | Consistent |
+| Position | [EO acquisition area] | [AIS position] | Spatially consistent | Consistent |
+| Acquisition time | [EO timestamp] | 15 Sep 2026, 07:35 UTC | Temporally consistent | Consistent |
+| Hull configuration | Tanker architecture | Crude oil tanker particulars | Consistent | Consistent |
+
+**Correlation assessment:** The candidate's reported dimensions, vessel type, position and timing are consistent with the physical characteristics observed in the EO image.
 
 The AIS position and timestamp are consistent with the satellite acquisition, while the reported dimensions, vessel type and orientation are broadly consistent with the observed contact.
 
