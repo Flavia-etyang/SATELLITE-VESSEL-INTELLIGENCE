@@ -366,11 +366,15 @@ This case therefore demonstrates classification under imperfect EO conditions ra
 
 ---
 
+<div align="center">
+
 # SATELLITE VESSEL INTELLIGENCE
 
 **Detect · Observe · Measure · Classify · Assess**
 
 Transforming overhead imagery into structured vessel intelligence through visual analysis, spatial measurement and evidence-based classification.
+
+</div>
 
 ---
 
