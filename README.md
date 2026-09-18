@@ -269,11 +269,14 @@ However, the apparent scale and configuration provide limited support for a more
 ### Hypothesis C — Patrol / Support Vessel
 
 The contact is clearly larger and more structurally complex than a typical patrol configuration, making this hypothesis less consistent with the observed characteristics.
+
+---
+
 ### Classification
 
 The physical configuration is most consistent with a **large naval surface combatant**.
 
-The assessment is based on the combination of hull proportions, forward gun position, central superstructure, sensor architecture and aft flight deck.
+...
 
 **Classification Confidence: MEDIUM–HIGH**
 
@@ -282,10 +285,6 @@ The assessment is based on the combination of hull proportions, forward gun posi
 ### Assessment
 
 The observed characteristics most strongly support classification as a large naval surface combatant.
-
----
-
-### 05 Classification Assessment
 
 The contact is assessed as a **large naval surface combatant**, with **MEDIUM–HIGH classification confidence**.
 
@@ -363,6 +362,8 @@ The assessment is supported by the vessel's hull geometry, centralized superstru
 
 This case therefore demonstrates classification under imperfect EO conditions rather than individual-vessel identity resolution.
 
+
+> **Analyst Note:** The absence of a directly correlated public AIS identity is not treated as evidence of military status or identity. The assessment is based on observable vessel characteristics and contextual information available within the case.
 
 ---
 
