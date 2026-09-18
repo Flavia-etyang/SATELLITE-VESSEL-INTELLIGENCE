@@ -179,7 +179,7 @@ The imagery supports classification as a large naval surface combatant, while th
 
 ### Analyst Note
 
-> Absence of AIS does not establish concealment or unusual behaviour. Some vessel categories, including warships, may not be required to carry AIS under international carriage requirements. :contentReference[oaicite:1]{index=1}
+> Absence of AIS does not establish concealment or unusual behaviour. Some vessel categories, including warships, may not be required to carry AIS under international carriage requirements.
 
 The assessment therefore relies on non-AIS evidence and should remain appropriately qualified.
 
