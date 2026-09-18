@@ -111,10 +111,10 @@ Candidate filtering considered:
 
 The strongest AIS candidate was tested against the EO contact using spatial, temporal and physical characteristics.
 
-| Candidate | AIS Type | LOA/Beam | Spatial Match | Physical Match | Physical Match |
+| Candidate | AIS Type | LOA/Beam | Spatial Match | Temporal Match | Physical Match |
 |---|---|---|---|---| ---|
-| AMANTEA | Tanker | 329.98 m/60 m | ✓ | ✓ | Consistent |
-| Candidate B | Tanker | 329.98 m | Consistent | Consistent | Consistent |
+| AMANTEA | Tanker | 329.98 m/60 m | ✓ | ✓ | ✓ |
+| LNG VENUS | Tanker | 288 m/48.94 m | x | ✓ | x |
 
 
 **Correlation assessment:** The candidate's reported dimensions, vessel type, position and timing are consistent with the physical characteristics observed in the EO image.
