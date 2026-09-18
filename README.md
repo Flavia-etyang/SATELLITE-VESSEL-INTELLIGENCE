@@ -197,41 +197,74 @@ The evidence supports **HIGH confidence in both classification and individual-ve
 
 What vessel classification can be supported from degraded EO imagery when no directly correlated public AIS identity is available?
 
+---
+
+### 01 Detection
+
+An unidentified maritime contact was detected alongside a fictionalized coastal naval facility in commercial EO imagery.
+
+The contact was sufficiently resolved to assess its overall hull geometry, major superstructure, deck configuration and selected dimensions. Atmospheric haze limits the visibility of finer structural details.
+
 ![Unknown Naval Contact — Satellite Vessel Intelligence](assets/case-studies/Naval-vessel.png)
 
 </div>
 
 ---
 
-An unidentified maritime contact is detected alongside a generic naval facility in commercial EO imagery.
+### 02 Object Determination
 
-The contact is sufficiently resolved to examine its overall hull geometry and major structural features, but atmospheric haze limits some finer details.
+The contact is assessed as a vessel rather than a fixed maritime structure, platform or other object.
 
-### Object Determination
+#### Observed indicators
 
-The contact is assessed as a **vessel**, rather than a fixed maritime structure or platform.
+- Defined hull with clear bow and stern geometry
+- Vessel-like longitudinal proportions
+- Central superstructure rising from the hull
+- Aft deck area consistent with a vessel flight deck
+- Position alongside a pier within the fictionalized naval facility
 
-Its elongated hull, defined bow and stern, deck arrangement and position alongside the pier support the vessel determination.
+**Object Confidence: HIGH**
 
-### Observed Characteristics
+---
+
+### 03 Observed Characteristics
+
+| Feature | Observation | Visibility |
+|---|---|---|
+| Hull | Long, relatively narrow hull | Clear |
+| Superstructure | Large central superstructure | Clear |
+| Forward structure | Forward gun-like structure visible | Moderate |
+| Sensors | Radar/sensor structures visible above superstructure | Moderate |
+| Aft deck | Large clear aft deck consistent with flight-deck configuration | Clear |
+| Cargo configuration | No visible commercial cargo arrangement | Clear |
+| Overall dimensions | Large surface-vessel proportions | Moderate |
+| Fine structural details | Partially obscured by atmospheric degradation | Limited |
+
+---
+
+## 04 Competing Hypotheses
+
+### Hypothesis A — Large Naval Surface Combatant
+
+Supported by:
 
 - Long, narrow hull
-- Grey naval-style coloration
-- Forward gun position
-- Large central superstructure
-- Radar / sensor structures
+- Large centralized superstructure
+- Radar/sensor structures
+- Forward weapon configuration
 - Aft flight deck
-- No commercial cargo configuration
-- Dimensions estimated from the EO image
+- Absence of commercial cargo infrastructure
 
-### Competing Hypotheses
 
-| Hypothesis | Supporting Evidence | Contradicting Evidence |
-|---|---|---|
-| Destroyer / surface combatant | Hull geometry, forward gun, large superstructure, aft flight deck | Fine structural details affected by atmospheric conditions |
-| Frigate | Similar naval configuration | Apparent size and overall proportions less consistent |
-| Patrol / support vessel | Naval context | Vessel dimensions and combatant-style configuration less consistent |
+### Hypothesis B — Frigate
 
+Some characteristics are compatible with a frigate-type configuration, particularly the overall hull and superstructure arrangement.
+
+However, the apparent scale and configuration provide limited support for a more specific frigate assessment.
+
+### Hypothesis C — Patrol / Support Vessel
+
+The contact is clearly larger and more structurally complex than a typical patrol configuration, making this hypothesis less consistent with the observed characteristics.
 ### Classification
 
 The physical configuration is most consistent with a **large naval surface combatant**.
@@ -242,85 +275,90 @@ The assessment is based on the combination of hull proportions, forward gun posi
 
 ---
 
-### Temporal & Geospatial Correlation
+### Assessment
 
-Unlike commercial vessels, the contact does not provide a usable public AIS identity for direct vessel correlation.
+The observed characteristics most strongly support classification as a large naval surface combatant.
 
-The investigation therefore shifts from AIS-based identity resolution to **temporal and geospatial correlation**.
+---
 
-| Correlation Factor | Evidence |
+### 05 Classification Assessment
+
+The contact is assessed as a **large naval surface combatant**, with **MEDIUM–HIGH classification confidence**.
+
+The assessment is based primarily on:
+
+- Overall hull geometry
+- Centralized superstructure
+- Radar/sensor configuration
+- Forward gun-like structure
+- Aft flight-deck arrangement
+- Absence of commercial cargo characteristics
+- Estimated vessel dimensions
+
+The available imagery does not provide sufficient detail to support attribution to a specific individual vessel or definitive class designation.
+
+---
+
+### 06 Temporal & Geospatial Context
+
+| Evidence Layer | Observation | Analytical Relevance |
+|---|---|---|
+| Image acquisition | [DATE / TIME] | Establishes observation timeframe |
+| Location | Fictionalized coastal naval facility | Provides contextual setting |
+| Berth relationship | Contact positioned alongside naval infrastructure | Consistent with naval-vessel interpretation |
+| Orientation | [Observed orientation] | Supports geometric assessment |
+| Dimensions | [Estimated dimensions] | Supports vessel-scale assessment |
+| Image conditions | Haze / atmospheric degradation | Limits fine-detail interpretation |
+
+> **The contextual evidence supports the interpretation of the contact as a naval surface vessel but does not independently establish individual vessel identity.**
+
+---
+
+### AIS / Identity Availability
+
+No directly correlated public AIS identity is available for this fictionalized case.
+
+AIS availability alone is therefore not treated as evidence for or against the vessel's identity.
+
+---
+
+### Confidence Assessment
+
+| Assessment Layer | Confidence |
 |---|---|
-| Image acquisition | **[DATE / TIME UTC]** |
-| General location | **Fictionalized coastal naval facility** |
-| Berth / pier position | **[Berth / facility reference]** |
-| Vessel dimensions | **[Estimated length × beam]** |
-| Vessel orientation | **[Observed orientation]** |
-| Weather / image quality | **Atmospheric haze / partial cloud interference** |
-
-The contact is compared against publicly available vessel references and imagery from an appropriate time period.
+| Object determination | HIGH |
+| Vessel classification | MEDIUM–HIGH |
+| Individual vessel identity | UNRESOLVED |
 
 ---
 
-### Identity Assessment
+## 07 Analytical Limitations
 
-Where AIS is unavailable, identity cannot be established from a single transmission.
+The available evidence supports classification of the contact as a large naval surface combatant.
 
-Instead, the candidate assessment considers the convergence of:
+However, the available imagery and contextual information do not establish:
 
-- EO-derived dimensions
-- Vessel architecture
-- Relative position within the facility
-- Vessel orientation
-- Acquisition timeframe
-- Publicly available vessel imagery / references
-- Consistency with known characteristics of the candidate class
+- A specific vessel identity
+- IMO or MMSI
+- Vessel name
+- Flag
+- Definitive class designation
+- A unique hull number
 
-No single characteristic is treated as conclusive.
-
----
-
-### Confidence
-
-**Classification Confidence: MEDIUM–HIGH**
-
-**Identity Confidence: MEDIUM**
-
-The imagery supports classification as a large naval surface combatant, while the absence of a directly correlated AIS identity and the degraded optical conditions limit the strength of individual-vessel attribution.
-
-### Analyst Note
-
-> Absence of AIS does not establish concealment or unusual behaviour. Some vessel categories, including warships, may not be required to carry AIS under international carriage requirements.
-
-The assessment therefore relies on non-AIS evidence and should remain appropriately qualified.
+These elements remain unresolved.
 
 ---
 
-### Image Quality & Limitations
+## 08 Final Assessment
 
-Atmospheric haze and partial cloud interference reduce the visibility of fine vessel details.
+The contact is assessed as a **large naval surface combatant**, with **MEDIUM–HIGH classification confidence**.
 
-This creates uncertainty around:
+The assessment is supported by the vessel's hull geometry, centralized superstructure, sensor configuration, forward weapon structure and aft flight-deck arrangement. Atmospheric degradation limits the visibility of finer structural characteristics but does not prevent assessment of the overall vessel configuration.
 
-- Small superstructure features
-- Sensor configuration
-- Precise beam estimation
-- Fine deck equipment
+**Individual vessel identity remains UNRESOLVED.**
 
-However, the overall hull geometry and major structural arrangement remain sufficiently observable for vessel classification.
+This case therefore demonstrates classification under imperfect EO conditions rather than individual-vessel identity resolution.
 
-> **Image quality affects the confidence of individual observations — not necessarily the entire classification.**
-
----
-
-### Final Assessment
-
-**The contact is assessed as a large naval surface combatant, with MEDIUM–HIGH classification confidence.**
-
-The available EO imagery supports the classification through the vessel's overall dimensions, hull geometry, superstructure arrangement, forward gun position and aft flight deck.
-
-Because no directly correlated AIS identity is available, individual-vessel attribution relies on temporal, geospatial and imagery-based correlation. Atmospheric degradation further limits the confidence of fine-grained identification.
-
-**The evidence supports the classification more strongly than the individual-vessel identity.**
 
 ---
 
