@@ -209,6 +209,10 @@ The contact was sufficiently resolved to assess its overall hull geometry, major
 
 </div>
 
+> **Imagery note:** The EO scene shown here is illustrative/synthetic imagery created for portfolio demonstration. It is not an operational satellite acquisition or proprietary client imagery.
+>
+> **Analytical note:** The case demonstrates the vessel-identification methodology and evidence-reconciliation workflow. Synthetic imagery is used only to illustrate the visual-analysis component.
+
 ---
 
 ### 02 Object Determination
