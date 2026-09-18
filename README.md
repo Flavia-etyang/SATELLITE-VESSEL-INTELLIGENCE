@@ -25,6 +25,10 @@ The object is sufficiently resolved to examine its hull geometry, deck arrangeme
 
 </div>
 
+> **Imagery note:** The EO scene shown here is illustrative/synthetic imagery created for portfolio demonstration. It is not an operational satellite acquisition or proprietary client imagery.
+>
+> **Analytical note:** The case demonstrates the vessel-identification methodology and evidence-reconciliation workflow. Synthetic imagery is used only to illustrate the visual-analysis component.
+
 ---
 
 ### 02 · Object Determination
@@ -43,7 +47,7 @@ The determination is supported by:
 
 ---
 
-### Observed characteristics
+### 03 · Observed characteristics
 
 | Feature | Observation |
 |---|---|
@@ -57,7 +61,7 @@ The determination is supported by:
 
 ---
 
-### Competing Hypotheses
+### 04 · Competing Hypotheses
 
 | Hypothesis | Supporting Evidence | Contradicting Evidence |
 |---|---|---|
@@ -68,7 +72,7 @@ The determination is supported by:
 
 ---
 
-### Classification 
+### 05 · Classification 
 
 The contact is classified as an **oil tanker** with HIGH confidence.
 
@@ -91,7 +95,7 @@ The classification is supported by the convergence of:
 
 ---
 
-### AIS Correlation & Identity Resolution
+### 06 · Candidate Generation
 
 Once the contact was classified as an oil tanker, AIS data within the relevant acquisition window was used to identify candidate vessels occupying the corresponding geographic area.
 
@@ -104,50 +108,86 @@ Candidate filtering considered:
 5. Vessel orientation
 6. Availability of independent vessel particulars
 
+
+The strongest AIS candidate was tested against the EO contact using spatial, temporal and physical characteristics.
+
+| Candidate | AIS Type | LOA/Beam | Spatial Match | Physical Match | Physical Match |
+|---|---|---|---|---| ---|
+| AMANTEA | Tanker | 329.98 m/60 m | ✓ | ✓ | Consistent |
+| Candidate B | Tanker | 329.98 m | Consistent | Consistent | Consistent |
+
+
+**Correlation assessment:** The candidate's reported dimensions, vessel type, position and timing are consistent with the physical characteristics observed in the EO image.
+
+The AIS position and timestamp are consistent with the satellite acquisition, while the reported dimensions, vessel type and orientation are broadly consistent with the observed contact.
+
 ---
 
 ### 07 · EO → AIS Correlation
 
 The strongest AIS candidate was tested against the EO contact using spatial, temporal and physical characteristics.
 
-| Candidate | AIS Type | LOA | Spatial Match | Spatial Match |
-|---|---|---|---|---|
-| AMANTEA | Tanker-like configuration | Tanker | Consistent | Consistent |
-| Length | ~330 m estimated | 329.98 m | Consistent | Consistent |
-| Beam | ~60 m estimated | 60 m | Consistent | Consistent |
-| Orientation | [Observed heading/orientation] | Course 237° | Consistent / [explain] | Consistent |
-| Position | [EO acquisition area] | [AIS position] | Spatially consistent | Consistent |
-| Acquisition time | [EO timestamp] | 15 Sep 2026, 07:35 UTC | Temporally consistent | Consistent |
-| Hull configuration | Tanker architecture | Crude oil tanker particulars | Consistent | Consistent |
+| Evidence Layer | EO Observation | AIS / Vessel Record | Correlation |
+|---|---|---|---|
+| Vessel type | Tanker-like configuration | Tanker | Consistent |
+| Length | ~330 m estimated | 329.98 m | Consistent |
+| Beam | ~60 m estimated | 60 m | Consistent |
+| Orientation | [Observed heading/orientation] | Course 237° | Consistent / [explain] |
+| Position | [EO acquisition area] | [AIS position] | Spatially consistent |
+| Acquisition time | [EO timestamp] | 15 Sep 2026, 07:35 UTC | Temporally consistent |
+| Hull configuration | Tanker architecture | Crude oil tanker particulars | Consistent |
 
 **Correlation assessment:** The candidate's reported dimensions, vessel type, position and timing are consistent with the physical characteristics observed in the EO image.
 
-The AIS position and timestamp are consistent with the satellite acquisition, while the reported dimensions, vessel type and orientation are broadly consistent with the observed contact.
+---
 
-### Vessel Particulars Cross-Check
+### 08 · Vessel Particulars Cross-Check
 
-Independent vessel records identify **[AMANTEA] (IMO [9892810])** as a **crude oil tanker**, with documented dimensions of **[330 m × 60 m]**.
+Independent vessel records identify **AMANTEA (IMO 9892810)** as a crude oil tanker with documented dimensions of approximately **330 m × 60 m**.
 
-These particulars are compared against the vessel's estimated dimensions and physical configuration in the EO imagery.
+| Particular | EO Assessment | Independent Record | Result |
+|---|---:|---:|---|
+| Vessel type | Oil tanker | Crude oil tanker | Consistent |
+| Length | ~330 m | 330 m | Consistent |
+| Beam | ~60 m | 60 m | Consistent |
+| IMO | — | 9892810 | Identity anchor |
 
-### Identity Assessment
+ > **The independent vessel record strengthens the classification but does not replace the EO/AIS correlation required for individual identity resolution.**
 
-**Classification Confidence: HIGH**  
-**Identity Confidence: [HIGH]**
+---
+
+### 09 · Identity Assessment
+
+**Object Confidence       HIGH**
+**Classification Confidence HIGH**
+**Identity Confidence      HIGH**
 
 The EO characteristics support an oil-tanker classification, while the correlated AIS transmission and independent vessel particulars provide additional evidence for resolving the contact to **[AMANTEA]**.
 
 > **Analyst Note:** AIS correlation strengthens identification but is not treated as conclusive where timing, position, dimensions or physical characteristics present material inconsistencies.
 
-### Final Assessment
+---
 
-**The contact is assessed as [AMANTEA], IMO [9892810] — a crude oil tanker.**
+### 10 · Final Assessment
 
-The assessment is supported by the convergence of **EO imagery, AIS data and independent vessel particulars**.
+**The EO contact is assessed as AMANTEA (IMO 9892810), a crude oil tanker.**
 
-### Final assessment: **Crude oil tanker, HIGH confidence**
+The assessment is supported by the convergence of:
+
+**EO vessel architecture**
++
+**estimated dimensions**
++
+**temporally and spatially correlated AIS**
++
+**independent vessel particulars**
+
+The evidence supports **HIGH confidence in both classification and individual-vessel identity**.
+
+> **Analyst Note:** AIS correlation is treated as supporting evidence rather than standalone proof of identity. Material disagreement in timing, position, dimensions or physical configuration would reduce identity confidence.
 
 ---
+
 
 <div align="center">
 
@@ -155,7 +195,7 @@ The assessment is supported by the convergence of **EO imagery, AIS data and ind
 
 ### Intelligence Question
 
-Can an unidentified naval contact be classified and attributed when AIS information is unavailable and the EO image is affected by atmospheric degradation?
+What vessel classification can be supported from degraded EO imagery when no directly correlated public AIS identity is available?
 
 ![Unknown Naval Contact — Satellite Vessel Intelligence](assets/case-studies/Naval-vessel.png)
 
